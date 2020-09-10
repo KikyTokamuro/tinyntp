@@ -1,0 +1,2 @@
+# tinyntp
+Tiny NTP client
